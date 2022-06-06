@@ -1,0 +1,5 @@
+#IntelliJ folder
+.idea/
+#folder containing class files and jar files
+out/
+*.iml
